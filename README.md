@@ -1,3 +1,3 @@
 # hello-world
-First labe repository
+First lab repository
 This is a TEST lab4 
